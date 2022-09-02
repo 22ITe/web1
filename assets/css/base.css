@@ -1,0 +1,51 @@
+:root {
+    --white-color: #fff;
+    --dark-color: #333;
+    --black-color: #000;
+    --text-color: #333;
+
+    --pink-color: #ff6699;
+    
+    --header-height: 80px;
+    --footer-height: 40px;
+    --container-height: calc(100vh - var(--header-height) - var(--footer-height));
+}
+
+* {
+    box-sizing: inherit;
+}
+
+.html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+/* Khối max khung 1200px hoặc full màn hình */
+.grid {
+    width: 1400px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Khối full màn hình */
+.grid__full-width {
+    width: 100%;
+}
+
+/* Khối tràn màn hình thì xún hàng */
+.grid__row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Animation */
+@keyframes FadeIn {
+    from {
+
+    }
+    to {
+        
+    }
+}
