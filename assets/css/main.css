@@ -20,7 +20,7 @@ nav {
 .nav__logo-text {
     color: rgb(187 55 147);
     font-size: 1.8rem;
-    text-shadow: -1px -1px rgb(86, 7, 51);
+    text-shadow: 1px 1px rgb(86, 7, 51);
     margin: auto;
 }
 
@@ -34,6 +34,7 @@ nav {
 
 .nav__list-item {
     margin: 0 8px;
+    cursor: pointer;
 }
 
 .nav__list-item,
@@ -43,7 +44,7 @@ nav {
     color: rgb(187 55 147);
     font-size: 1.2rem;
     font-weight: 600;
-    text-shadow: -.25px -.25px rgb(86, 7, 51);
+    text-shadow: .25px .25px rgb(86, 7, 51);
 }
 
 /* CONTAINER */
