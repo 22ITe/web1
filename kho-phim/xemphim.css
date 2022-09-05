@@ -8,11 +8,25 @@
     width: 800px; 
     max-width: 100%;
 }
+/* Tương thích căn giữa nếu màn hình == (min-width: 800px) and (max-width: 1050px)  */
+@media screen and (min-width: 800px) and (max-width: 1050px) {
+    .container__main {
+        margin: auto;
+    }
+}
 
 .container__sub {
     background-color: rgb(226, 155, 211);
+    flex: 1;
 }
-
+/* Tương thích với màn hình lớn hơn 1050px */
+@media screen and (min-width: 1050px) {
+    .container__sub {
+        overflow: auto;
+        height: var(--container-height);
+    }
+    
+}
 
 .watch__heading-film {
     position: relative;
