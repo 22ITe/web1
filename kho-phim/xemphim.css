@@ -18,6 +18,7 @@
 .container__sub {
     background-color: var(--container-color);
     flex: 1;
+    box-shadow: -.1px .1px 2px blue;
 }
 /* Tương thích với màn hình lớn hơn 1050px */
 @media screen and (min-width: 1050px) {
