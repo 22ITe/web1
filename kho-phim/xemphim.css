@@ -15,12 +15,6 @@
     }
 }
 
-.vach-chia {
-    height: 100%;
-    width: 1px;
-    border-right: 1px solid rgb(255, 0, 132);
-}
-
 .container__sub {
     background-color: var(--container-color);
     flex: 1;
@@ -55,11 +49,15 @@
     height: 50px;
     display: flex;
     align-items: center;
+    padding: 1px 16px;
 }
 
 .watch__body {
     background-color: #00defe;
     width: 100%;
+    box-sizing: border-box;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .episode-item {
