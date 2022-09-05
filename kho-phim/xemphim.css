@@ -15,8 +15,14 @@
     }
 }
 
+.vach-chia {
+    height: 100%;
+    width: 1px;
+    border-right: 1px solid rgb(255, 0, 132);
+}
+
 .container__sub {
-    background-color: rgb(226, 155, 211);
+    background-color: var(--container-color);
     flex: 1;
 }
 /* Tương thích với màn hình lớn hơn 1050px */
@@ -45,14 +51,14 @@
 .watch__heading-title {
     font-size: 1.6rem;
     color: var(--text-color);
-    background-color: rgb(226, 106, 178);
+    background-color: rgb(69 205 255);
     height: 50px;
     display: flex;
     align-items: center;
 }
 
 .watch__body {
-    background-color: rgb(111, 100, 108);
+    background-color: #00defe;
     width: 100%;
 }
 
@@ -62,4 +68,5 @@
     text-align: center;
     cursor: pointer;
     line-height: 2.2rem;
+    color: var(--text-color);
 }
