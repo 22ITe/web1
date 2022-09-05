@@ -167,6 +167,13 @@ const container = document.querySelector('.container')
 
 //kho phim
 var khophim = document.querySelector('.nav__list-item-khophim');
+var trangchu = document.querySelector('.nav__list-item-trangchu');
+trangchu.onclick = () => {container.innerHTML = `
+                                <div style="text-align: center">
+                                    <h1 style="color: rgb(0 93 197)">Chào Mừng bạn Đến Với Trang Web Đầu Tay Của Lĩnh </h1>
+                                </div>
+                        `;}
+
 khophim.onclick = function () {
     var promise = new Promise ( (resolve) => resolve() );
 
@@ -175,7 +182,7 @@ khophim.onclick = function () {
             // var containerFilm_body = document.createElement('div');
             // containerFilm_body.className = 'container__film grid__row';
             // container.appendChild(containerFilm_body);
-            container.innerHTML =  `<div class="container__film grid__row"></div>`
+            container.innerHTML =  `<div class="container__film grid__row"></div>`;
         })
         .then( () => {
             // function LinkWatch(value) {
@@ -291,5 +298,10 @@ khophim.onclick = function () {
         })
 }
 
-
+var khovan = document.querySelector('.nav__list-item-khovan')
+khovan.onclick = () => {container.innerHTML = `
+                                <div style="text-align: center">
+                                    <h1 style="color: rgb(0 93 197)">Coming Soon</h1>
+                                </div>
+                        `;}
 

@@ -37,6 +37,10 @@ nav {
     cursor: pointer;
 }
 
+.nav__list-item-link:hover {
+    color: rgb(0, 140, 255);
+}
+
 .nav__list-item,
 .nav__list-item-link {
     display: inline-block;
