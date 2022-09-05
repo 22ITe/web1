@@ -7,6 +7,7 @@
 .container__main {
     width: 800px; 
     max-width: 100%;
+    z-index: 1;
 }
 /* Tương thích căn giữa nếu màn hình == (min-width: 800px) and (max-width: 1050px)  */
 @media screen and (min-width: 800px) and (max-width: 1050px) {
@@ -18,7 +19,7 @@
 .container__sub {
     background-color: var(--container-color);
     flex: 1;
-    box-shadow: -.1px .1px 2px blue;
+    box-shadow: -.1px 2px 2px blue;
 }
 /* Tương thích với màn hình lớn hơn 1050px */
 @media screen and (min-width: 1050px) {
@@ -50,7 +51,8 @@
     height: 50px;
     display: flex;
     align-items: center;
-    padding: 1px 16px;
+    padding: 5px 16px;
+    box-shadow: 0 .2px 1px blue;
 }
 
 .watch__body {
@@ -59,6 +61,8 @@
     box-sizing: border-box;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    padding: 0 8px;
+    box-shadow: 0 .2px 1px blue;
 }
 
 .episode-item {

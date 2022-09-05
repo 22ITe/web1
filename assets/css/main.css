@@ -52,6 +52,7 @@ nav {
     height: var(--container-height);
     background-color: var(--container-color);
     overflow: auto;
+    box-shadow: 0 .2px 1px blue;
 }
 
 /* Films */
