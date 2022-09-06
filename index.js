@@ -120,11 +120,11 @@ function LinkWatch(value) {
 
                                 <div class="watch__body">
                                     <div class="watch__body-episode grid__row">
-                                        <div class="episode-item"> tập 1</div>
-                                        <div class="episode-item"> tập 2</div>
-                                        <div class="episode-item"> tập 3</div>
-                                        <div class="episode-item"> tập 4</div>
-                                        <div class="episode-item"> tập test</div>
+                                        <div class="episode-item">01</div>
+                                        <div class="episode-item">02</div>
+                                        <div class="episode-item">03</div>
+                                        <div class="episode-item">04</div>
+                                        <div class="episode-item">05</div>
 
                                     </div>
                                 </div>         
