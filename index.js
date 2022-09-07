@@ -48,8 +48,15 @@ films[id = id + 1 ] = {
     title: 'Đấu Phá Thương Khung -Phần 3 -Trọn bộ ',
     main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
-        'Trọn bộ': `<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        'OAV-2': '<iframe width="885" height="498" src="https://www.youtube.com/embed/wKvx8C0c5qo" title="Đấu phá thương khung bản đặc biệt - Sa chi lan ca - thuyết minh full HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+        'Trọn bộ': `<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+    }
+}
+
+films[id = id + 1 ] = {
+    img: 'https://tse4.mm.bing.net/th?id=OIP.EZbR_kxIUFNs0SMyT3dXdwAAAA&pid=Api&P=0',
+    title: 'Đấu Phá Thương Khung -OAV 2',
+    main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/wKvx8C0c5qo" title="Đấu phá thương khung bản đặc biệt - Sa chi lan ca - thuyết minh full HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    episodes: {
     }
 }
 
@@ -64,10 +71,9 @@ films[id = id + 1 ] = {
 
 films[id = id + 1 ] = {
     img: 'https://tse1.mm.bing.net/th?id=OIP.YmX5LXpvRuOvHhjmLqP-ygHaKZ&pid=Api&P=0',
-    title: 'Đấu Phá Thương Khung -OAV 3 -Trọn bộ ',
+    title: 'Đấu Phá Thương Khung -OAV 3 ',
     main: '<iframe width="1045" height="438" src="https://www.youtube.com/embed/9EmxTHD1W8Y" title="Đấu Phá Thương Khung OVA - Ước Hẹn 3 Năm Tập 1 13 Trọn Bộ Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
-        'Trọn bộ': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/9EmxTHD1W8Y" title="Đấu Phá Thương Khung OVA - Ước Hẹn 3 Năm Tập 1 13 Trọn Bộ Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`    
     }
 }
 
