@@ -5,84 +5,73 @@ var id = -1;
 films[id = id + 1 ] = {
     img: 'https://tse3.mm.bing.net/th?id=OIP.0c5ux-mGf7jz_LisBeGKpgAAAA&pid=Api&P=0',
     title: 'Đấu Phá Thương Khung -Phần 1',
+    main: '<iframe width="560" height="315" src="//ok.ru/videoembed/354175552166?autoplay=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>',
     episodes: {
-        _1: `<iframe width="810" height="456" src="https://play.hoathinh3d.net/hls/f7f53d11e7f4bf1f3298c9e2b6e5dd87.m3u8" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _3: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _4: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _5: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _6: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _7: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _8: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        '1&2': `<iframe width="560" height="315" src="//ok.ru/videoembed/354175552166?autoplay=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>`,
+        '03': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '04': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '05': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '06': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '07': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '08': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     }
 }
 
 films[id = id + 1 ] = {
     img: 'https://tse2.mm.bing.net/th?id=OIP.yLHQ7WGHitcjqAYOlw1rzAHaKe&pid=Api&P=0',
     title: 'Đấu Phá Thương Khung -Phần 2',
+    main: '<iframe width="810" height="456" src="https://play.hoathinh3d.net/hls/03038c31e7f2952632bd753a0c29ffa9.m3u8" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
-        _1: `<iframe width="810" height="456" src="https://play.hoathinh3d.net/hls/03038c31e7f2952632bd753a0c29ffa9.m3u8" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _3: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _4: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _5: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _6: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _7: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _8: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        '1&2': `<iframe width="810" height="456" src="https://play.hoathinh3d.net/hls/03038c31e7f2952632bd753a0c29ffa9.m3u8" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '03': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '04': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '05': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '06': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '07': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '08': `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     }
 }
 
 films[id = id + 1 ] = {
     img: 'https://tse1.mm.bing.net/th?id=OIP.QN0-yTxpT1Q29MeXtRy2hAAAAA&pid=Api&P=0',
-    title: 'Đấu Phá Thương Khung -Phần 3',
+    title: 'Đấu Phá Thương Khung -Phần 3 -Trọn bộ ',
+    main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
-        _1: `<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _3: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _4: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _5: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _6: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _7: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _8: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        'Trọn bộ': `<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     }
 }
 
 films[id = id + 1 ] = {
     img: 'https://tse1.mm.bing.net/th?id=OIP.0cPQGrNvZ1dore8ls4QU5gHaKY&pid=Api&P=0',
-    title: 'Đấu Phá Thương Khung -Phần 4',
+    title: 'Đấu Phá Thương Khung -Phần 4 -Trọn bộ ',
+    main: `<iframe width="885" height="498" src="https://www.youtube.com/embed/5cPeDs3T8ZY" title="Đấu Phá Thương Khung Phần 4 Tập 1-18 Thuyết Minh 1080p | Phim Hoạt Hình 3D Trung Quốc Hay Nhất 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
     episodes: {
-        _1: `<iframe width="885" height="498" src="https://www.youtube.com/embed/5cPeDs3T8ZY" title="Đấu Phá Thương Khung Phần 4 Tập 1-18 Thuyết Minh 1080p | Phim Hoạt Hình 3D Trung Quốc Hay Nhất 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _3: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _4: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _5: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _6: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _7: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _8: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        'Trọn bộ': `<iframe width="885" height="498" src="https://www.youtube.com/embed/5cPeDs3T8ZY" title="Đấu Phá Thương Khung Phần 4 Tập 1-18 Thuyết Minh 1080p | Phim Hoạt Hình 3D Trung Quốc Hay Nhất 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     }
 }
 
 films[id = id + 1 ] = {
     img: 'https://tse1.mm.bing.net/th?id=OIP.YmX5LXpvRuOvHhjmLqP-ygHaKZ&pid=Api&P=0',
-    title: 'Đấu Phá Thương Khung -OAV 3',
+    title: 'Đấu Phá Thương Khung -OAV 3 -Trọn bộ ',
+    main: '<iframe width="1045" height="438" src="https://www.youtube.com/embed/9EmxTHD1W8Y" title="Đấu Phá Thương Khung OVA - Ước Hẹn 3 Năm Tập 1 13 Trọn Bộ Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
-        _1: `<iframe width="1045" height="438" src="https://www.youtube.com/embed/9EmxTHD1W8Y" title="Đấu Phá Thương Khung OVA - Ước Hẹn 3 Năm Tập 1 13 Trọn Bộ Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _3: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _4: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _5: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _6: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _7: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _8: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        'Trọn bộ': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/9EmxTHD1W8Y" title="Đấu Phá Thương Khung OVA - Ước Hẹn 3 Năm Tập 1 13 Trọn Bộ Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`    
     }
 }
 
 films[id = id + 1 ] = {
     img: 'https://tse1.mm.bing.net/th?id=OIP.OOsm9NT2-WZBBFwjr5vMJQHaLX&pid=Api&P=0',
     title: 'Đấu Phá Thương Khung -Phần 5',
+    main: '<iframe width="810" height="456" src="https://www.youtube.com/embed/SD32VDAQ-Z4" title="Đấu phá thương khung phần 5 tập 1 + 2 Thuyết minh Full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
-        _1: `<iframe width="810" height="456" src="https://www.youtube.com/embed/SD32VDAQ-Z4" title="Đấu phá thương khung phần 5 tập 1 + 2 Thuyết minh Full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _3: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _4: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _5: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _6: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _7: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        _8: `<iframe width="810" height="456" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        '1-2': `<iframe width="810" height="456" src="https://www.youtube.com/embed/SD32VDAQ-Z4" title="Đấu phá thương khung phần 5 tập 1 + 2 Thuyết minh Full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '03': `<iframe width="810" height="456" src="https://www.youtube.com/embed/giBxh9IMYR8" title="Đấu phá thương khung phần 5 tập 3 Thuyết minh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '04': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/8wW3l4njzVA" title="Đấu Phá Thương Khung Phần 5 Tập 4 Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '05': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/TtTGWloyPLM" title="Đấu Phá Thương Khung Phần 5 Tập 5 Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '06': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/wJCr49Vb1GQ" title="Đấu phá thương khung phần 5 tập 6 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '07': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/sSg03QmFedY" title="Đấu phá thương khung phần 5 tập 7 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        '08': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        
     }
 }
 
@@ -102,7 +91,23 @@ films[id = id + 1 ] = {
 //     containerFilm_sub.appendChild(filmitem);
 // }
 // XEM PHIM
-function LinkWatch(value) {
+function Xemphim(value,linkphim) {
+    var watch__heading_film = document.querySelector('.watch__heading-film');
+    watch__heading_film.innerHTML = films[value].episodes[linkphim];
+    var promise = new Promise( (resolve) => resolve() );
+    promise 
+        .then( () => {
+            var episode_colorAll = document.querySelectorAll('.episode-item');
+            for (var giatri=0; giatri < episode_colorAll.length; giatri++ ) {
+                episode_colorAll[giatri].style.backgroundColor = 'rgb(0, 143, 239)';
+            }
+        })
+        .then( () => {
+            var episode_color = document.querySelector( '.episode--' + linkphim );
+            episode_color.style.backgroundColor = 'red';
+        })
+}
+function LinkWatch(value,linkphim) {
     var promise = new Promise( (resolve) => resolve() );
     promise 
         .then( () => {
@@ -111,21 +116,15 @@ function LinkWatch(value) {
                             <div class="container__main">
                                 <div class="watch__headding">
                                     <div class="watch__heading-film">
-                                    ${films[value].episodes._1}
+                                        ${films[value].main}
                                     </div>
                                     <div class="watch__heading-title">
-                                        ${films[value].title} -Tập 1
+                                        ${films[value].title}
                                     </div>
                                 </div>
 
                                 <div class="watch__body">
                                     <div class="watch__body-episode grid__row">
-                                        <div class="episode-item">01</div>
-                                        <div class="episode-item">02</div>
-                                        <div class="episode-item">03</div>
-                                        <div class="episode-item">04</div>
-                                        <div class="episode-item">05</div>
-
                                     </div>
                                 </div>         
                             </div>
@@ -136,6 +135,33 @@ function LinkWatch(value) {
                         </div>
                     `;
         })
+
+        .then( () => {
+            var xemphim = document.querySelector('.watch__body-episode');
+            if (xemphim) {
+                for(var linkphim in films[value].episodes) {
+                    var tapphim = document.createElement('div')
+                    tapphim.className = `episode-item episode--${linkphim}`;
+                    tapphim.innerText = linkphim;
+                    // tapphim.addEventListener('click', () => {
+                    //     alert(linkphim);
+                    // }, false);
+                    // tapphim.onclick = () => { alert(linkphim) }
+                    tapphim.setAttribute('onclick',`Xemphim( ${value} , '${linkphim}' )`);
+                    xemphim.appendChild(tapphim);
+                }
+            }
+        })
+
+        // .then( () => {
+        //     var tapxemphim = 0;
+        //     for(var linkphim in films[value].episodes) {
+        //         tapxemphim++;
+        //         var episode_item = document.querySelector(`.episode--${tapxemphim}`);
+        //         episode_item.onclick = Xemphim(value,linkphim);
+        //     }
+        // })
+
         .then( () => {
             var containerFilm = document.querySelector('.container__film');
             if (containerFilm) {for (var value = films.length - 1; value >= 0; value--) {
