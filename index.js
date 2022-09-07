@@ -72,6 +72,14 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
+    img: 'https://tse3.mm.bing.net/th?id=OIP.M9vWgKkKRhKJ30QiKTHSTADhE7&pid=Api&P=0',
+    title: 'Đấu Phá Thương Khung -OAV 4: Duyên Khởi',
+    main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/Vu9FIHvIYTA" title="Đấu Phá Thương Khung OVA Duyên Khởi Thuyết Minh Trọn Bộ | BẢN ĐẸP FULL HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    episodes: {
+    }
+}
+
+films[id = id + 1 ] = {
     img: 'https://tse1.mm.bing.net/th?id=OIP.OOsm9NT2-WZBBFwjr5vMJQHaLX&pid=Api&P=0',
     title: 'Đấu Phá Thương Khung -Phần 5',
     main: '<iframe width="810" height="456" src="https://www.youtube.com/embed/SD32VDAQ-Z4" title="Đấu phá thương khung phần 5 tập 1 + 2 Thuyết minh Full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
