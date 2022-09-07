@@ -96,7 +96,7 @@ films[id = id + 1 ] = {
         'Tập 5': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/TtTGWloyPLM" title="Đấu Phá Thương Khung Phần 5 Tập 5 Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         'Tập 6': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/wJCr49Vb1GQ" title="Đấu phá thương khung phần 5 tập 6 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         'Tập 7': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/sSg03QmFedY" title="Đấu phá thương khung phần 5 tập 7 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
-        'Tập 8': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+        'Tập 80000': `<iframe width="1045" height="438" src="https://www.youtube.com/embed/a8ZQYooLtlU" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
     }
 }
 
@@ -220,8 +220,8 @@ const container = document.querySelector('.container')
 var khophim = document.querySelector('.nav__list-item-khophim');
 var trangchu = document.querySelector('.nav__list-item-trangchu');
 trangchu.onclick = () => {container.innerHTML = `
-                                <div style="text-align: center">
-                                    <h1 style="color: rgb(0 93 197)">Chào Mừng bạn Đến Với Trang Web Đầu Tay Của Lĩnh </h1>
+                                <div style="text-align: center;">
+                                    <h1 style="color: rgb(0 93 197)">Chào Mừng bạn Đến Với Trang Web Đầu Tay Của Lĩnh</h1>
                                 </div>
                         `;}
 
