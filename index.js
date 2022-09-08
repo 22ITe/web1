@@ -25,7 +25,7 @@ films[id = id + 1 ] = {
 films[id = id + 1 ] = {
     img: 'https://tse2.mm.bing.net/th?id=OIP.yLHQ7WGHitcjqAYOlw1rzAHaKe&pid=Api&P=0',
     title: 'Đấu Phá Thương Khung -Phần 2',
-    main: '<iframe width="810" height="456" src="https://play.hoathinh3d.net/hls/03038c31e7f2952632bd753a0c29ffa9.m3u8" title="Đấu phá thương khung phần 5 tập 8 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    main: '<iframe width="810" height="456" src="https://short.ink/n7dxMIfIV" title="Đấu phá thương khung phần 2 tập 1  Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
         'Tập-1': `<iframe width="810" height="456" src="https://short.ink/n7dxMIfIV" title="Đấu phá thương khung phần 2 tập 1  Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         'OAV-1': '<iframe width="885" height="498" src="https://www.youtube.com/embed/WkSeOLaWZEw" title="Đấu Phá Thương Khung Phần OVA 1 Thuyết Minh | Phần Đặc Biệt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
