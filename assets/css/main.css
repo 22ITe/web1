@@ -22,6 +22,8 @@ nav {
     font-size: 1.8rem;
     text-shadow: 1px 1px rgb(6, 0, 180);
     margin: auto;
+    text-transform: uppercase;
+    letter-spacing: 0.16rem;
 }
 
 .nav__list {
@@ -47,8 +49,33 @@ nav {
     text-decoration: none;
     color: rgb(0 93 197);
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 500;
     text-shadow: .25px .25px rgb(6, 0, 180);
+    text-transform: uppercase;
+    letter-spacing: 0.12rem;
+    position: relative;
+}
+
+.nav__list-item-link::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    height: 2px;
+    width: 100%;
+    background-color: rgb(0 93 197);
+    transform: scaleX(0);
+    transition: transform .5s ease-in-out;
+    transform-origin: right;
+}
+
+/* .nav__list-item-link:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+} */
+
+.active.nav__list-item-link::before {
+    transform: scaleX(1);
+    transform-origin: left;
 }
 
 /* CONTAINER */

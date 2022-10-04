@@ -3,7 +3,7 @@ var films = [];
 var id = -1;
 
 films[id = id + 1 ] = {
-    img: 'https://tse3.mm.bing.net/th?id=OIP.0c5ux-mGf7jz_LisBeGKpgAAAA&pid=Api&P=0',
+    img: 'https://hoathinh3d.com/wp-content/uploads/2021/03/dau-pha-thuong-khung-phan-1.jpeg',
     title: 'Đấu Phá Thương Khung -Phần 1',
     main: '<iframe width="810" height="456" src="https://short.ink/akP6Nt0Tx" title="Đấu phá thương khung phần 1 tập 1 Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -23,7 +23,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse2.mm.bing.net/th?id=OIP.yLHQ7WGHitcjqAYOlw1rzAHaKe&pid=Api&P=0',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjWj0rfEjbqiNlvclxkUiPgdbB2dHh5HpLuxgWzH6FqEyy8-2mFvL_IYyGfUWInTYV4FA&usqp=CAU',
     title: 'Đấu Phá Thương Khung -Phần 2',
     main: '<iframe width="810" height="456" src="https://short.ink/n7dxMIfIV" title="Đấu phá thương khung phần 2 tập 1  Thuyết minh Tiếng việt Full HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -44,7 +44,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse1.mm.bing.net/th?id=OIP.QN0-yTxpT1Q29MeXtRy2hAAAAA&pid=Api&P=0',
+    img: 'https://vidian.me/images/dau-pha-thuong-khung.jpg',
     title: 'Đấu Phá Thương Khung -Phần 3 -Trọn bộ ',
     main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/d6uu29Pz0SU" title="Đấu Phá Thương Khung Phần 3 Thuyết Minh Trọn Bộ HD | Hoạt Hình 3D Hay Nhất 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -53,7 +53,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse4.mm.bing.net/th?id=OIP.EZbR_kxIUFNs0SMyT3dXdwAAAA&pid=Api&P=0',
+    img: 'https://www.hhtq.net/upload/vod/20220128-1/5c2ac8ab58451a03057836f8687912cd.jpg',
     title: 'Đấu Phá Thương Khung -OAV 2',
     main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/wKvx8C0c5qo" title="Đấu phá thương khung bản đặc biệt - Sa chi lan ca - thuyết minh full HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -61,7 +61,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse1.mm.bing.net/th?id=OIP.0cPQGrNvZ1dore8ls4QU5gHaKY&pid=Api&P=0',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EWD9jXwbhJDEpsKAe261x_gGYWDq5P-voMwZ-8bDhrKnr_BEdz2Q7MIpKJ2F9gCc9mY&usqp=CAU',
     title: 'Đấu Phá Thương Khung -Phần 4 -Trọn bộ ',
     main: `<iframe width="885" height="498" src="https://www.youtube.com/embed/5cPeDs3T8ZY" title="Đấu Phá Thương Khung Phần 4 Tập 1-18 Thuyết Minh 1080p | Phim Hoạt Hình 3D Trung Quốc Hay Nhất 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
     episodes: {
@@ -70,7 +70,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse1.mm.bing.net/th?id=OIP.YmX5LXpvRuOvHhjmLqP-ygHaKZ&pid=Api&P=0',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNK1oztGqIG79eUDeDgjXua-K_1n3hwPIiw&usqp=CAU',
     title: 'Đấu Phá Thương Khung -OAV 3 ',
     main: '<iframe width="1045" height="438" src="https://www.youtube.com/embed/9EmxTHD1W8Y" title="Đấu Phá Thương Khung OVA - Ước Hẹn 3 Năm Tập 1 13 Trọn Bộ Thuyết Minh Tiếng Việt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -78,7 +78,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse3.mm.bing.net/th?id=OIP.M9vWgKkKRhKJ30QiKTHSTADhE7&pid=Api&P=0',
+    img: 'https://hoathinh3d.com/wp-content/uploads/2022/06/dau-pha-thuong-khung-ova-4-duyen-khoi.jpg',
     title: 'Đấu Phá Thương Khung -OAV 4: Duyên Khởi',
     main: '<iframe width="885" height="498" src="https://www.youtube.com/embed/Vu9FIHvIYTA" title="Đấu Phá Thương Khung OVA Duyên Khởi Thuyết Minh Trọn Bộ | BẢN ĐẸP FULL HD 1080P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -86,7 +86,7 @@ films[id = id + 1 ] = {
 }
 
 films[id = id + 1 ] = {
-    img: 'https://tse1.mm.bing.net/th?id=OIP.OOsm9NT2-WZBBFwjr5vMJQHaLX&pid=Api&P=0',
+    img: 'https://photo2.tinhte.vn/data/attachment-files/2022/08/6098799_dau-pha-thuong-khung-phan-5-300x450_2.jpg',
     title: 'Đấu Phá Thương Khung -Phần 5',
     main: '<iframe width="810" height="456" src="https://www.youtube.com/embed/SD32VDAQ-Z4" title="Đấu phá thương khung phần 5 tập 1 + 2 Thuyết minh Full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     episodes: {
@@ -219,13 +219,20 @@ const container = document.querySelector('.container')
 //kho phim
 var khophim = document.querySelector('.nav__list-item-khophim');
 var trangchu = document.querySelector('.nav__list-item-trangchu');
-trangchu.onclick = () => {container.innerHTML = `
+trangchu.onclick = () => {
+                            trangchu.classList.add('active');
+                            khophim.classList.remove('active');
+                            khovan.classList.remove('active');
+                            container.innerHTML = `
                                 <div style="text-align: center;">
                                     <h1 style="color: rgb(0 93 197)">Chào Mừng bạn Đến Với Trang Web Đầu Tay Của Lĩnh</h1>
                                 </div>
                         `;}
 
 khophim.onclick = function () {
+    khophim.classList.add('active');
+    khovan.classList.remove('active');
+    trangchu.classList.remove('active');
     var promise = new Promise ( (resolve) => resolve() );
 
     promise
@@ -350,7 +357,11 @@ khophim.onclick = function () {
 }
 
 var khovan = document.querySelector('.nav__list-item-khovan')
-khovan.onclick = () => {container.innerHTML = `
+khovan.onclick = () => {
+                            khovan.classList.add('active');
+                            khophim.classList.remove('active');
+                            trangchu.classList.remove('active');
+                            container.innerHTML = `
                                 <div style="text-align: center">
                                     <h1 style="color: rgb(0 93 197)">Coming Soon</h1>
                                 </div>
